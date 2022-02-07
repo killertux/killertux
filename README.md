@@ -8,6 +8,8 @@ I am passionate about software development. I spend most of my day either coding
 
 [Linkedin](https://www.linkedin.com/in/bruno-clemente/)
 
+[email](mailto:bruno.canguru@hotmail.com	)
+
 ## Articles that I wrote
 
 [Flaws of PHP Iterators](https://dev.to/killertux/the-flaws-of-php-iterators-1afd)
