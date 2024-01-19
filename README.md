@@ -22,13 +22,15 @@ I am passionate about software development. I spend most of my day either coding
 
 ## Some fun projects
 
-[riterator](https://github.com/killertux/riterator)
+[temoc](https://github.com/killertux/temoc) - Acceptance testing using markdown files
 
-[gitrub](https://github.com/killertux/gitrub)
+[riterator](https://github.com/killertux/riterator) - Rust like iterators for PHP
 
-[robot36-encoder](https://github.com/killertux/robot36-encoder)
+[gitrub](https://github.com/killertux/gitrub) - Get some data from GitHub
 
-[rlisp](https://github.com/killertux/rlisp)
+[robot36-encoder](https://github.com/killertux/robot36-encoder) - Encode images into robot36 encoded audios (SSTV)
+
+[rlisp](https://github.com/killertux/rlisp) - Incomplete lisp interpreter in rust
 
 ## Professional experiences
 
