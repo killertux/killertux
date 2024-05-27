@@ -1,4 +1,5 @@
 ### Bruno Clemente
+[![views](https://komarev.com/ghpvc/?username=killertux&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/killertux)
 
 I am passionate about software development. I spend most of my day either coding for work or coding some personal project. On the rare occasions when I am not coding, I am probably either trekking or climbing something.
 
